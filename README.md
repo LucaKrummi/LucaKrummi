@@ -1,4 +1,4 @@
-![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg) ![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
 
 ### Hi there 👋
 
